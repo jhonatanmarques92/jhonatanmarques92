@@ -2,7 +2,7 @@
 Formado em Engenharia da Computação em 2018 e atualmente estudando Ciência de Dados.
 Aperfeiçoando minhas habilidades em pré-processamento e visualização de dados, geração e validação de modelos de machine learning e colocá-lo em produção.
 
-<img scr:"https://www.python.org/static/img/python-logo.png"/>
+<img align="left" alt="python" width="26px" scr:"https://www.python.org/static/img/python-logo.png" />
 
 <!--
 **jhonatanmarques92/jhonatanmarques92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
