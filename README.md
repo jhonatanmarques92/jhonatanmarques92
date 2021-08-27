@@ -6,10 +6,14 @@ Aperfeiçoando minhas habilidades em pré-processamento e visualização de dado
 ### Linguagem e ferramentas
 
 <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /></a>Python</p>
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />Pandas</p>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />Github</p>
-<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />Scikit-learn</p>
-<img align="left" alt="numpy" width="40px" src="https://numpy.org/images/logos/numpy.svg" />Numpy</p>
+
+<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/pandas_white.svg" /></a>Pandas</p>
+
+<a href="https://github.com/"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>Github</p>
+
+<a href="https://scikit-learn.org/"><img align="left" alt="Scikit-learn" width="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" /></a>Scikit-learn</p>
+
+<a href="https://numpy.org/"><img align="left" alt="numpy" width="40px" src="https://numpy.org/images/logos/numpy.svg" /></a>Numpy</p>
 
 <!--
 **jhonatanmarques92/jhonatanmarques92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
