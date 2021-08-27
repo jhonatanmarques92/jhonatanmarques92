@@ -1,6 +1,6 @@
 ### Sobre mim
 <p>Formado em Engenharia da Computação em 2018 e atualmente estudando Ciência de Dados.</p>
-<p>Aperfeiçoando minhas habilidades em pré-processamento e visualização de dados, geração e validação de modelos de machine learning e colocá-lo em produção.</p>
+<p>Aperfeiçoando minhas habilidades em pré-processamento e visualização de dados, geração e validação de modelos de machine learning e colocá-los em produção.</p>
 <br/>
 
 ### Linguagem e ferramentas
