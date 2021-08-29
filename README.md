@@ -15,6 +15,11 @@
 
 <a href="https://numpy.org/"><img align="left" alt="numpy" width="40px" src="https://numpy.org/images/logos/numpy.svg" /></a>Numpy</p>
 
+<a href="https://seaborn.pydata.org/"><img align="left" alt="numpy" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /></a>Seaborny</p>
+
+<a href="https://matplotlib.org/"><img align="left" alt="numpy" width="40px" src="https://matplotlib.org/_static/logo2_compressed.svg" /></a>Matplotlib</p>
+
+<a href="https://plotly.com/"><img align="left" alt="numpy" width="40px" src="https://plotly-marketing-website.cdn.prismic.io/plotly-marketing-website/948b6663-9429-4bd6-a4cc-cb33231d4532_logo-plotly.svg" /></a>Plotly</p>
 <!--
 **jhonatanmarques92/jhonatanmarques92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
