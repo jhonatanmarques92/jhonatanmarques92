@@ -1,3 +1,4 @@
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&link=https://www.linkedin.com/in/jhonatanmarques/)](https://www.linkedin.com/in/jhonatanmarques/)
 
 ### Sobre mim
 <p>Formado em Engenharia da Computação em 2018 e atualmente estudando Ciência de Dados.</p>
