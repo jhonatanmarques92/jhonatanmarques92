@@ -11,7 +11,7 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-black?logo=plotly)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-black?logo=scikit-learn)
-![Github](https://img.shields.io/badge/-Github-black?logo=github)
+<!--![Github](https://img.shields.io/badge/-Github-black?logo=github)
 <!--
 **jhonatanmarques92/jhonatanmarques92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
