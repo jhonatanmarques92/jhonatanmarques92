@@ -1,4 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatanmarques//)]
 
 ### Sobre mim
 <p>Formado em Engenharia da Computação em 2018 e atualmente estudando Ciência de Dados.</p>
