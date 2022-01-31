@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatanmarques//)]
+
 ### Sobre mim
 <p>Formado em Engenharia da Computação em 2018 e atualmente estudando Ciência de Dados.</p>
 <p>Aperfeiçoando minhas habilidades em pré-processamento, tratamento e visualização de dados, geração e validação de modelos de machine learning para colocá-los em produção.</p>
