@@ -1,9 +1,9 @@
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&link=https://www.linkedin.com/in/jhonatanmarques/)](https://www.linkedin.com/in/jhonatanmarques/)
-[![Porfólio](https://img.shields.io/badge/-Portfólio-gray?link=https://jhonatanmarques92.github.io/)](https://jhonatanmarques92.github.io/)
-
 ### Sobre mim
 <p>Formado em Engenharia da Computação, atualmente estudo Ciência de Dados com o objetivo de desenvolver produto de dados, através de análises e técnicas de Machine Learning ou estatística para solucionar problemas de negócio.</p>
 <br/>
+
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&link=https://www.linkedin.com/in/jhonatanmarques/)](https://www.linkedin.com/in/jhonatanmarques/)
+[![Porfólio](https://img.shields.io/badge/-Portfólio-gray?link=https://jhonatanmarques92.github.io/)](https://jhonatanmarques92.github.io/)
 
 <!--### Linguagens e ferramentas
 
