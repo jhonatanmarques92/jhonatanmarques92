@@ -2,7 +2,7 @@
 <p>Formado em Engenharia da Computação, atualmente estudo Análise e Ciência de Dados com o objetivo de desenvolver produto de dados, através de análises e técnicas de Machine Learning ou estatística para solucionar problemas de negócio.</p>
 <br/>
 
-Ferramentas Analíticas: SQL e Python.  
+Ferramentas Analíticas: SQL, Python e Power BI.  
 Ferramentas de desenvolvimento: Git.  
 Banco de Dados: SQLite, MySQL.  
 Machine Learning: Classification e Regression.  
