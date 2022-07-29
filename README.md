@@ -1,5 +1,5 @@
 ### Sobre mim
-<p>Formado em Engenharia da Computação, atualmente estudo Ciência de Dados com o objetivo de desenvolver produto de dados, através de análises e técnicas de Machine Learning ou estatística para solucionar problemas de negócio.</p>
+<p>Formado em Engenharia da Computação, atualmente estudo Análise e Ciência de Dados com o objetivo de desenvolver produto de dados, através de análises e técnicas de Machine Learning ou estatística para solucionar problemas de negócio.</p>
 <br/>
 
 Ferramentas Analíticas: SQL e Python.  
